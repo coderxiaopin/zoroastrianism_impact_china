@@ -1,3 +1,24 @@
+@software{cao_2025_farr,
+  author = {Cao, Xiaopin},
+  title = {Farr-Mandate Model: A Comparative Religious Framework},
+  year = {2025},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.1234567},
+  url = {https://github.com/coderxiaopin/zoroastrianism_impact_china}
+}
+
+**Farr and Mandate: A Comparative Religious Model of Political Legitimacy Cycles in China**
+# 法拉与天命：中国政治合法性循环的比较宗教学模型
+
+**提出者**：曹小品  
+**日期**：2025年11月10日  
+**版本**：1.0
+
+---
+
+### 摘要
+本文提出“法拉-天命模型”，以琐罗亚斯德教的“法拉”（Farr，神圣光辉）为理想型，类比中国“天命”政治的合法性循环机制。模型包含三要素（光辉、仲裁者、转移触发）与七阶段演化，统一解释从秦汉至当代的 30 余个历史事件。**不主张物理传播，仅为结构比较**。开源 CC BY-SA 4.0，欢迎证伪与扩展。
+
 # 【假说】：琐罗亚斯德教与中国政治思想的演化
 
 ---
