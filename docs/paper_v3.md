@@ -1,10 +1,9 @@
-<DOCUMENT filename="paper_v3_final.md">
 **Farr and Mandate: A Typological Model of Political Legitimacy Cycles in China**  
 # 法拉与天命：中国政治合法性循环的类型学模型
 
 **作者**：曹小品  
 **日期**：2025年11月11日  
-**版本**：3.2（审稿响应版）  
+**版本**：3.2
 **DOI**：https://doi.org/10.5281/zenodo.14644328
 
 ---
